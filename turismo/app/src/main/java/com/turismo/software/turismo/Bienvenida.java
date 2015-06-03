@@ -3,7 +3,6 @@ package com.turismo.software.turismo;
 import android.app.Activity;
 import android.content.Intent;
 import android.graphics.Typeface;
-import android.os.Bundle;
 import android.os.CountDownTimer;
 import android.util.Log;
 import android.view.View;
@@ -62,16 +61,7 @@ public class Bienvenida extends Activity {
             }
 
             @Override
-            public void onFinish() {
-
-               // Toast.makeText(getApplicationContext(), getString(R.string.db_ok), Toast.LENGTH_LONG).show();
-                progreso+=	paso;
-                mProgressBar.setProgress(progreso);
-                mProgressBar.setVisibility(View.INVISIBLE);
-                startActivity(new Intent(Bienvenida.this, MainActivity.class));
-                System.out.println("bienvenida");
-
-            }
+      
         };
 
         mCountDownTimer.start();
