@@ -38,7 +38,13 @@
                 <category android:name="android.intent.category.LAUNCHER"/>
             </intent-filter>
         </activity>
-
+<activity
+            android:name=".lugar"
+            android:parentActivityName=".listar_lugares" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".listar_lugares" />
+        </activity>
 
         <activity
             android:name=".Bienvenida"
