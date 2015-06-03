@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    android:id="@+id/qq"
+    android:background="@drawable/menu1">
+
+    <Button
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="registrar"
+        android:id="@+id/registrar"
+        android:layout_marginTop="81dp"
+        android:layout_below="@+id/frameLayout"
+        android:layout_centerHorizontal="true"
+        android:background="@android:color/background_light" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text="Formulario de registro"
+        android:id="@+id/formulario"
+        android:textSize="22dp"
+        android:textColor="@android:color/black"
+        android:layout_marginTop="31dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <FrameLayout
+        android:layout_width="350dp"
+        android:layout_height="100dp"
+        android:layout_below="@+id/formulario"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="103dp"
+        android:id="@+id/frameLayout">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="Nombre"
+            android:id="@+id/textView16"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="Usuario"
+            android:id="@+id/textView17"
+            android:layout_below="@+id/nombre"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_gravity="left|center_vertical" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="Password"
+            android:id="@+id/textView18"
+            android:layout_centerVertical="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_gravity="left|bottom" />
+
+        <EditText
+            android:layout_width="233dp"
+            android:layout_height="30dp"
+            android:inputType="textPassword"
+            android:ems="10"
+            android:id="@+id/pas"
+            android:layout_below="@+id/textView18"
+            android:layout_alignLeft="@+id/user"
+            android:layout_alignStart="@+id/user"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true"
+            android:background="@android:color/white"
+            android:padding="5dp"
+            android:layout_gravity="right|bottom" />
+
+        <EditText
+            android:layout_width="233dp"
+            android:layout_height="30dp"
+            android:id="@+id/user"
+            android:layout_below="@+id/textView17"
+            android:layout_alignLeft="@+id/nombre"
+            android:layout_alignStart="@+id/nombre"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true"
+            android:background="@android:color/white"
+            android:padding="5dp"
+            android:layout_gravity="right|center_vertical" />
+
+        <EditText
+            android:layout_width="233dp"
+            android:layout_height="30dp"
+            android:id="@+id/nombre"
+            android:layout_below="@+id/textView16"
+            android:layout_marginLeft="20dp"
+            android:layout_marginStart="37dp"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true"
+            android:background="@android:color/white"
+            android:padding="5dp"
+            android:layout_gravity="right|top" />
+    </FrameLayout>
+
+</RelativeLayout>
