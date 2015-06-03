@@ -1,0 +1,403 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="facebook_app_id">376488842548337</string>
+
+    <string name="lbPointA">A</string>
+    <string name="textPointB">B</string>
+    <string name="app_name">turismo</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- string ids for registration.xml -->
+    <string name="nombre_textview">Nombre:</string>
+    <string name="username_textview">Usuario:</string>
+    <string name="password_textview">Pass:</string>
+    <string name="submit">Submit</string>
+
+    <string-array name="comidas_titulo">
+        <item>Pollos Copacabana</item>
+        <item>Heladeria y confiteria Dumbo</item>
+        <item>Pizzeria Elis</item>
+        <item>Heladeria y confiteria Brosso</item>
+        <item> La Choppería Antique Pub</item>
+        <item>Mega Burger</item>
+        <item>Alexander Coffee</item>
+    </string-array>
+
+
+
+    <string-array name="comidas_lonlat">
+        <item>-16.500036, -68.123638</item>
+        <item>-16.501489, -68.132687</item>
+        <item>-16.500973, -68.132918</item>
+        <item>-16.500947, -68.133090</item>
+        <item>-16.513521, -68.128656</item>
+        <item>-16.501272, -68.120753</item>
+        <item>-16.510859, -68.122221</item>
+    </string-array>
+
+
+
+
+    <string-array name="comidas_contenido">
+        <item>Pollos Copacabana a partir del año 1999 hasta el año 2004, construye un Centro de Distribución...</item>
+        <item>La compañía Dumbo Heladeria establecida en La Paz, Bolivia, cuenta con experiencia en el rubro de heladerias...</item>
+        <item>Elis es Patrimonio Paceño. El negocio fue creado por inmigrantes judio-austriacos, que comenzaron vendiendo...</item>
+        <item>Ubicados en pleno Prado de la ciudad de La Paz, Brosso sabor a diverción!!! ...</item>
+        <item>Prueba cualquier trago con vodka y sirvete una deliciosa pizza....</item>
+        <item>Las mejores hamburguesas, Pollos a la Broaster, Sándwiches, Lomitos en La Paz, Bolivia....</item>
+        <item>Este museo geológico, mineralógico, botánico y zoológico se encuentra en el Predio Ferial...</item>
+        <item>En Alexander Coffee buscamos que la concurrencia se halle en libertad de vivir su propia experiencia con amigos...</item>
+    </string-array>
+    <string-array name="comidas_contenido_completo">
+        <item>Pollos Copacabana a partir del año 1999 hasta el año 2004, construye un Centro de Distribución y apertura tres nuevas sucursales con las mismas características, en las zonas más importantes de la ciudad, como la zona central, Potosí esq. Socabaya, en la zona sur, Av. Ballivian calle 19 y en la zona de Miraflores en la Plaza del Estadio.El año 2002 surge un nuevo reto: Pasteles Y Postres, con el inigualable sabor y excelente calidad, característica de la Empresa. El año 2008, pensando en un importante segmento de clientes, Pollos Copacabana lanza el COMBO COPITO, una deliciosa comida infantil que además trae un divertido juguete coleccionable, especialmente diseñado para nuestra empresa y que cumple con las normas de seguridad internacionales. El año 2010, se apertura tres sucursales en diferentes plazas de comida, a su vez, se introduce los BALDES COPACABANA DE 8 Y 12 PIEZAS, una opción que marca una tendencia de consumo entre nuestros clientes y se convierte en el producto más demandado por familias y amigos.
+\n
+\n•\tHorario de atencion:
+\nLunes a Domingos de 11:00 a 23:00
+\n•\tSucursales:
+\nCalle Comercio Nro. 881
+\nTeléfono: 2406433
+\n
+\nCalle Potosí Nro. 1106
+\nTeléfono: 2408702
+\n
+\nAv. 16 de Julio Nro. 1866
+\nTeléfono:2312804
+\n
+\n Av. Saavedra Nro. 1706
+\n Teléfono:2226120
+\n
+\n MULTICINE - Av.Arce Nro. 263
+\n Teléfono:2111009
+\n
+\n MEGACENTER - Irpavi
+\n Teléfono:2720444
+\n
+\n Av. Ballivián entre calles 19 y20 Nro. 1326
+\n Teléfono:2792444
+\n
+\nLA JUNGLA - El Alto
+\n Teléfonos:2829494</item>
+        <item>La compañía Dumbo Heladeria establecida en La Paz, Bolivia, cuenta con experiencia en el rubro de heladerias. Si desea saber más, encuéntrenos por telf. Será un gusto aclararle cualquier duda!
+\n
+\n•\tHorario de atencion:
+\nLunes a Domingos de 11:00 a 21:00
+\n•\tSucursales:
+\nAv. 16 de Julio Zona "El Prado"
+\nTeléfono: 2-231333
+\n</item>
+        <item>El negocio fue creado por inmigrantes judio-austriacos, que comenzaron vendiendo berlines y pasteles. Hoy tiene más de 50 productos y 10 sucursales
+\n
+\n•\tHorario de atencion:
+\nLunes a Domingos de 11:00 a 21:00
+\n•\tSucursales:
+\n Av. 16 de Julio Nro. 1495 Zona Central
+\n Telefono: 2319295
+\n
+\n Av. 16 de Julio Nro. 1497 Edif. Monje Campero
+\n Telefono: 2335566
+\n
+\n Av. 20 de Octubre Nro.927 Zona Sopocachi.
+\n Telefono: 2434411
+\n
+\n Calle 16 esq. Av Costanera Zona Achumani
+\n Telefono:  2710505
+\n
+\n Irpavi Calle 2 Edif. Megacenter Local B-19
+\n Telefono:  2147777
+\n
+\n Av. Arce Nro.2631 Edif Multicine Piso Pb Local 2 Zona Central
+\n Telefono:  2146116
+\n
+\n Calle Comercio, Edif Shopping del Comercio Pb
+\n Telefono:   2906662
+\n
+\n Av. Satelite Plan 405 Nro. 656 , Ciudad Satelite El Alto
+\n Telefono:   2815454
+\n</item>
+        <item>Ubicados en pleno Prado de la ciudad de La Paz, Brosso sabor a diverción!!! es el perfecto punto de encuentro de 7 de la mañana a 12:30 de la noche.
+\n En Brosso sabor a diversión!!! ofrecemos a nuestros clientes amplios y cómodos ambientes junto a una gran variedad de productos de la más alta calidad y un servicio de primera.</item>
+        <item>Prueba cualquier trago con vodka y sirvete una deliciosa pizza.
+\n
+\n•\tSucursales:
+\n•\tHorario de visitas:
+\nLunes a Sábados de 17:00 a 23:30
+\n Av. Ecuador 2620 (Sopocachi)</item>
+        <item>ELas mejores hamburguesas, Pollos a la Broaster, Sándwiches, Lomitos en La Paz, Bolivia.
+
+\n Restaurant de comida rápida Mega Burger, nadie lo hace como nosotros.
+Comprometidos con la eficiencia, calidad, frescura y limpieza en la elaboración de nuestros productos.  </item>
+        <item>ELas mejores hamburguesas, Pollos a la Broaster, Sándwiches, Lomitos en La Paz, Bolivia.
+
+\n Restaurant de comida rápida Mega Burger, nadie lo hace como nosotros.
+Comprometidos con la eficiencia, calidad, frescura y limpieza en la elaboración de nuestros productos.
+\n
+\n•\tSucursales:
+\n•\tHorario de atencion:
+\nLunes a Sábados de 9:00 a 15:30
+\n Av. German Busch esq. Díaz Romero (Miraflores)
+\nTelefono: (591-2) 2914040
+\n</item>
+        <item>En Alexander Coffee buscamos que la concurrencia se halle en libertad de vivir su propia experiencia con amigos y familiares. Empezó en el día, y ahora les llega en la noche con la introducción de Alexander Pub, una extensión nocturna del ambiente Alexander Coffee. Aquí las luces bajan y el menú cambia, donde se puede escoger entre una amplia variedad de bebidas y piqueos.
+/n
+Hemos crecido por la confianza que tenemos en Bolivia, invirtiendo durante años difíciles para el país. Lo seguiremos haciendo y nuestra historia formará parte del futuro. Lo que viene no sabemos, pero estamos, siempre preparados para preverlo.
+\n•\tSucursales:
+\n  Miraflores, Calle Juan de Vargas Nº 2370
+\nTelefono: 2115872
+\n
+\n  Av. 16 de Julio Nº 1832
+\nTelefono:  2312790
+\n
+\n Calle Potosí Nº 1091
+\nTelefono: 2406482
+\n
+\n  Av. 20 de octubre Nº 2463
+\nTelefono: 2431006
+\n
+\n   Av. 6 de Agosto Nº 2881
+\nTelefono: 76762583
+\n
+\n  Av. Arce Nº 2631, Edif. Multicine
+\nTelefono: 2145916
+\n
+\n   Calle 21 de Calacoto, Edif. Santa Fé PB Nº 2881
+\nTelefono: 2113810
+\n
+\n    Calle Montenegro Nº1336
+\nTelefono: 2773410
+\n</item>
+    </string-array>
+
+    <!-- **************** HOSPITALES  ****************** -->
+    <string-array name="hospitales_titulo">
+        <item>Hospital de la Mujer</item>
+        <item>Hospital de Clinicas</item>
+        <item>Hospital Materno Infantil</item>
+        <item>Hospital del niño</item>
+        <item>Hospital Obrero</item>
+        <item>Hospital del Torax</item>
+        <item>Hospital Luis Uria</item>
+    </string-array>
+    <string-array name="hospitales_geo">
+       <item></item>
+        <item/>
+        <item/>
+        <item/>
+    </string-array>
+    <string-array name="hospitales_contenido">
+        <item> Ubicado en La ciudad de La Paz</item>
+        <item>El Hospital de Clinicas de La Paz, depende normativamente del Ministerios de Salud y Deportes, administrativamente...</item>
+        <item>La Directora Regional de la Caja Nacional de Salud (CNS), Roxana Claure afirmó que hasta el momento el hospital...</item>
+        <item>El Hospital del Niño "Ovidio Aliaga Uría", es un establecimiento de tercer nivel de atención para niños entre...</item>
+        <item>El ex presidente Enrique Hertzog, de profesión médico cirujano, fue el impulsor de la...</item>
+        <item>Direccion: Claudio Sanjinez #SN Miraflores Bajo</item>
+        <item>Direccion: Av. Burgaleta SN z/ Villa Copacabana</item>
+    </string-array>
+    <string-array name="hospitales_contenido_completo">
+        <item> Ubicado en la ciudad de La Paz
+	\n•\t Direccion: Av. Saavedra Nº 2273 entre Claudio Sanjinés y Rafael Subieta.</item>
+        <item>El Hospital de Clinicas de La Paz, depende normativamente del Ministerios de Salud y Deportes, administrativamente de la Gobernacion de La Paz, a traves del Servicio Departamental de Salud (SEDES).
+\n Con la promulgacion de la ley de Autonimias Nº031 de 19 de Julio de 2010, establece en su Art. 81 Numeral III Inciso c) y d), que los hospitales detercer nivel funcionaran bajo dependencia de la Gobernacion del Departemanto Autonomo de La Paz, con un periodo de transición, mientras se consolide el proceso de transferencia, amparado en el Art. 38 de la Ley Nº 062 de 28 de noviemnbre de 2010, en la que se instituye que Los Gobiernos Autonomos Municipales que tengan bajo su juridicción establecimientos de tercer nivel de salud, deberan mantener los recursos necesarios presupuestados en su Plan Operativo Anual y Presupuestos del resto de la gestion de 2010 y del total de la gestion 2011, para garantizar el funcionamiento de los mismo en servicios básicos, equipos, mobiliario. medicamentos. insumos y demas suministros, mientras se cosolide el proceso detransferencia competencial.
+\n•\t Direccion: Av. Saavedra Nº 2245 Miraflores</item>
+        <item>La Directora Regional de la Caja Nacional de Salud (CNS), Roxana Claure afirmó que hasta el momento el hospital Materno Infantil es el único en Bolivia que se encuentra acreditado en la seguridad social.
+\n En una conferencia nacional de salud desarrollada en la ciudad de La Paz a nivel ejecutivo juntamente con el Ministerio de Salud, las autoridades han felicitado el trabajo desempeñado silenciosamente pero de vital importancia en el departamento y en el hospital Materno Infantil, hecho que beneficia a la población que acude a este centro de salud.
+\n•\t Direccion: c. Rep. Dominicana entre Díaz Romero y Villalobos</item>
+        <item>El Hospital del Niño "Ovidio Aliaga Uría", es un establecimiento de tercer nivel de atención para niños entre 0 y 14  años, con capacidad de resolución de alta complejidad, desarrolla actividades normativas de promoción, prevención, atención ambulatoria y de hospitalización, curación y rehabilitación así como de investigación. Es parte de la Red de Servicios de Salud del departamento de La Paz y de acuerdo con la normativa vigente depende de  la Gobernación de La Paz a través del Servicio Departamental de Salud (SEDES).
+\n El Hospital está acreditado desde el año 2006 y su desarrollo institucional ha sido reconocido por propios y  extraños. La implementación y continuo desarrollo de los Sistemas Informáticos: Administrativo Financiero (SIAF) y  Clínico Estadístico (SICE), ha permitido ejecutar el plan estratégico y efectuar el seguimiento de los proyectos en  forma sistemática y ordenada.
+\n•\t Direccion: Calle Mayor Zubieta, Nº 100, Miraflores</item>
+        <item>El Hospital del Niño "Ovidio Aliaga Uría", es un establecimiento de tercer nivel de atención para niños entre 0 y 14  años, con capacidad de resolución de alta complejidad, desarrolla actividades normativas de promoción, prevención, atención ambulatoria y de hospitalización, curación y rehabilitación así como de investigación. Es parte de la Red de Servicios de Salud del departamento de La Paz y de acuerdo con la normativa vigente depende de  la Gobernación de La Paz a través del Servicio Departamental de Salud (SEDES).
+\n El Hospital está acreditado desde el año 2006 y su desarrollo institucional ha sido reconocido por propios y  extraños. La implementación y continuo desarrollo de los Sistemas Informáticos: Administrativo Financiero (SIAF) y  Clínico Estadístico (SICE), ha permitido ejecutar el plan estratégico y efectuar el seguimiento de los proyectos en  forma sistemática y ordenada.
+\n•\t Direccion: Calle Mayor Zubieta, Nº 100, Miraflores</item>
+        <item>El ex presidente Enrique Hertzog, de profesión médico cirujano, fue el impulsor de la construcción del Hospital Obrero, durante 1948, según cuenta el doctor Carlos Aguilar Peñarrieta, quien recopiló la historia de la entidad de salud.
+Desde su juventud, aún como estudiante, Aguilar recuerda que en octubre del año 1955, el doctor Jacobo Abularach, primer director del nosocomio, junto a 23 estudiantes de la facultad de Medicina abrió las puertas para la atención médica de la población paceña asegurada. Este galeno brindó su servicio al Hospital Obrero por más de 43 años.
+\n•\t Direccion: Av. Brasil # 1745 entre Lucas Jaimes y José Gutiérrez</item>
+        <item>\n•\t Direccion: Claudio Sanjinez #SN Miraflores Bajo</item>
+        <item>\n•\t Direccion: Av. Burgaleta SN z/ Villa Copacabana</item>
+    </string-array>
+
+    <!-- **************** MUSEOS  ****************** -->
+    <string-array name="museos_titulo">
+        <item>Museo de Historia Natural</item>
+        <item>Museo de Textiles Andinos Bolivianos</item>
+        <item>Museo de Arte Contemporaneo</item>
+        <item>Centro cultural Museo San Francisco</item>
+        <item>Museo Nacional de Arte</item>
+        <item>Museo Tambo Quirquincho</item>
+        <item>Museo Casa de Pedro Domingo Murillo</item>
+        <item>Museo del Litoral Boliviano</item>
+        <item>Museo de Metales Preciosos</item>
+        <item>Museo costumbrista "Juan de Vargas"</item>
+    </string-array>
+    <string-array name="museos_lonlat">
+        <item>-16.539070, -68.070726</item>
+        <item>-16.493387, -68.120183</item>
+        <item>-16.501733, -68.132549</item>
+        <item>-16.496450, -68.137650</item>
+        <item>16.499005, -68.146243</item>
+        <item>-16.493616, -68.138094</item>
+        <item>-16.492066, -68.135773</item>
+        <item>-16.491909, -68.135647</item>
+        <item>-16.492013, -68.135732</item>
+        <item>-16.491862, -68.135594</item>
+    </string-array>
+
+    <string-array name="museos_contenido">
+        <item>Museo donde se puede apreciar muestras de la fauna boliviana...</item>
+        <item>Se exhibe el proceso de tejido, estilos, textiles de diferentes culturas...</item>
+        <item>Exhibe una colección privada de pintura, escultura, cerámica...</item>
+        <item>Recorriendo los claustros, las celdas, el jardín, el huerto, la cripta...</item>
+        <item>Casa de Francisco Tadeo Diez de Medina, importante hacendado de la ciudad...</item>
+        <item>Antigua casona del cacique Quirquincha, fue construida con rasgos coloniales...</item>
+        <item>Museo dedicado al patriota Pedro Domingo Murillo y a la revolución de julio de 1809...</item>
+        <item>Dedicado a la guerra de 1879, en la cual Bolivia perdió sus costas...</item>
+        <item>El museo atesora manufacturas de orfebrería y cerámica ...</item>
+        <item>En este museo se puede apreciar las diversas costumbres de ...</item>
+    </string-array>
+    <string-array name="museos_contenido_completo">
+        <item> Museo donde se puede apreciar muestras de la fauna boliviana. Entre sus colecciones cuenta con fósiles de vertebrados e invertebrados pertenecientes a diferentes eras geológicas.
+	\n•\t Direccion: Av. Potosí N°1458 (esq. Av. América).
+	\n•\t Dias de atencion: Lunes - Viernes.
+	\n•\t Horario: continuo de 8:30 a 16:30.</item>
+        <item> Se exhibe el proceso de tejido, estilos, textiles de diferentes culturas y regiones del país con diseños iconográficos y una muestra de tesoros nacidos de ruecas y telares. Sobresale la importancia del tejido de los Andes que data de hace más de 3.000 años.
+	\n•\t Direccion: Plaza Benito Juárez entre Cuba y Guatemala
+	\n•\t Dias de atencion: martes a domingos.
+	\n•\t Horario: 9:30 a 12:30 y de 15:00 a 18:30.</item>
+        <item> Exhibe una colección privada de pintura, escultura, cerámica y obras de artistas nacionales y extranjeros. Existe un ambiente destinado a la enseñanza de historia del arte de los últimos 500 años.
+	\n•\t Direccion: Av. 16 de Julio, El Prado
+	\n•\t Dias de atencion: lunes a domingo.
+	\n•\t Horario: 9:00 a 21:00.</item>
+        <item> Recorriendo los claustros, las celdas, el jardín, el huerto, la cripta, y admirando la arquitectura barroca mestiza de la basílica y los cuadros, los visitantes podrán respirar historia y arte que se remontan al pasado por casi cinco siglos.
+	\n•\t Direccion: Av. 16 de Julio, El Prado
+	\n•\t Dias de atencion: lunes a domingo.
+	\n•\t Horario: 9:00 a 21:00.</item>
+        <item> Casa de Francisco Tadeo Diez de Medina, importante hacendado de la ciudad que vivió a finales del siglo XVIII. Este museo tiene una gran variedad de pinturas que datan desde la época virreinal hasta la época moderna.
+	\n•\t Direccion:  c. Socabaya No. 432
+	\n•\t Dias de atencion: martes a sabado
+	\n•\t Horario: 9.30 a 12:30 y de 15.00 a 19.00</item>
+        <item> Antigua casona del cacique Quirquincha, fue construida con rasgos coloniales. Exhibe colecciones de platería colonial y republicana, fotografías de antaño, máscaras, pinturas y esculturas contemporáneas de La Paz.
+	\n•\t Direccion:   Calle Evaristo Valle entre Tiquiña y Santa Cruz, Plaza Alonzo de Mendoza
+	\n•\t Dias de atencion:  martes a viernes
+	\n•\t Horario: 9.30 a 12.30 y de 15.00 a 19.00</item>
+        <item> Museo dedicado al patriota Pedro Domingo Murillo y a la revolución de julio de 1809. Es una construcción de principios del siglo XIX, que tiene dos plantas en las que son salas de exhibición.
+	\n•\t Direccion:   Calle Jaén No. 790
+	\n•\t Dias de atencion:  martes a viernes de 9.30 a 12.30 y de 15.00 a 18:30 horas sábado y domingo de 10:00 a 12:30 horas</item>
+        <item>El museo atesora manufacturas de orfebrería y cerámica de la época precolombina. La sala de oro resguarda valiosos objetos realizados en este metal, como diademas pectorales, orejeras, adornos de mantas y vestidos, que se atribuyen a la cultura incaica.
+	\n•\t Direccion: Calle Jaén No. 789
+	\n•\t Dias de atencion:  de martes a viernes de 9.30 a 12.30 y de 15:00 a 19:00 sábados y domingos de 10.00 a 12.30</item>
+        <item>Dedicado a la guerra de 1879, en la cual Bolivia perdió sus costas sobre el Océano Pacífico, y al héroe de esa guerra, el Coronel Eduardo Avaroa. Cuenta con cuatro ambientes donde se exhiben fotografías de los puertos del Pacífico que fueron usurpados por Chile.
+	\n•\t Direccion: Calle Jaén No. 777
+	\n•\t Dias de atencion:  de martes a viernes
+	\n•\t Horario: 9.30 a 12.30 y de 15:00 a 19:00</item>
+        <item>En este museo se puede apreciar las diversas costumbres de la ciudad en varios dioramas y maquetas, personajes sobresalientes, hechos históricos como el colgamiento de Murillo o el martirio de Túpac Katari; el fútbol paceño, etc.
+	\n•\t Direccion: Calle Sucre esq. Jaén, Parque Riosinho.
+	\n•\t Dias de atencion:  martes a viernes de 9.30 a 12.30 y de 15.00 a 19.00 horas sábado y domingo 10:00 a 12:30 horas</item>
+    </string-array>
+
+    <!-- **************** TELEFERICO  ****************** -->
+
+    <string-array name="teleferico_titulo">
+        <item>Teleferico ruta verde</item>
+        <item>Teleferico ruta amarilla</item>
+        <item>Teleferico ruta roja</item>
+    </string-array>
+    <string-array name="teleferico_lonlat">
+        <item>-16.519534, -68.115609</item>
+        <item>-16.519534, -68.115609</item>
+        <item>-16.491373, -68.144101</item>
+      </string-array>
+    <string-array name="teleferico_contenido">
+        <item>La línea Verde completa la primera etapa de Mi Teleférico. La primera ruta habilitada, el...</item>
+        <item>La Línea  Amarilla, conectará ciudad Satélite de la ciudad de El Alto, pasando por el barrio...</item>
+        <item>La Línea roja está compuesta por 109 cabinas que trasladarán a 100 personas ...</item>
+    </string-array>
+    <string-array name="teleferico_contenido_completo">
+        <item>La línea Verde completa la primera etapa de Mi Teleférico. La primera ruta habilitada, el 30 de mayo,  fue la línea Roja, que conecta la Feria 16 de Julio de El Alto con la ex Estación de Trenes de La Paz. La línea Amarilla, inaugurada el 15 de septiembre, conecta Ciudad Satélite, en El Alto, con Obrajes, en La Paz.
+	\n•\t Tiempo de viaje: 16,5 minutos.
+	\n•\t Estaciones:
+	\n Estación Irpawi: Colegio Militar, a la altura de calle 12 de Calacoto.
+	\n Estación Aynacha Obrajes: a la altura de la calle 17 (cerca al puente Esperanza)
+	\n Estación Pata obrajes: Final Av. Costanera y Av. Del Maestro
+	\n Estación Libertador/Chuqi Apu: Av. Libertador, a la altura de la Curva de Holguín (comienzo de Obrajes). Es una estación compartida con la línea amarilla</item>
+        <item>La Línea  Amarilla, conectará ciudad Satélite de la ciudad de El Alto, pasando por el barrio de Sopocachi hasta llegar a la Curva de Holguín en la Zona  de San Jorge.
+	\n•\t Tiempo de viaje: 16,5 minutos.
+	\n•\t Estaciones:
+	\n Estación Qhana Pata:  Es una estación de retorno, ubicada en la avenida Panorámica Sur de la ciudad de El Alto, en la zona      de Ciudad Satélite.  Atenderá siete distritos de la ciudad de El Alto. Esta Estación beneficiará a siete distritos que son: 1, 2, 3, 4, 8, 10 y 12 de la ciudad alteña
+	\n Estación Quta Uma (Buenos Aires): Se encuentra  en la intersección de las avenidas Buenos Aires y Moxos, en la zona de Tembladerani. Incluye conexiones a través de las avenidas Buenos Aires, Collasuyo, Moxos. Se implementó un ambiente para el mercado “Las Rosas”.
+	\n Estación Suphu Kachi (Sopocachi): La estación intermedia se encuentra ubicada en la calle Miguel de Cervantes y calle Méndez Arcos, a una cuadra de la plaza España y beneficiará a los habitantes del centro paceño proporcionando el servicio a toda la zona de Sopocachi. Cuenta con cuatro plantas,  acceso a andén, área comercial y nivel de motores y  área de intercambio bimodal.
+	\n Estación Chuqui Apu (Del Libertador): Es una estación doble, porque en ella confluyen la línea Amarilla y la línea Verde, siendo el punto de trasbordo entre ambas líneas.</item>
+        <item>La Línea roja está compuesta por 109 cabinas que trasladarán a 100 personas cada dos minutos entre las ciudades de La Paz y El Alto, trayecto en el que a diario se desplazan 440.000 habitantes. Funcionarán los siete días de la semana, incluidos los días feriados, por espacio de 17 horas, desde las 05.00 hasta las 22.00.
+	\n•\t Tiempo de viaje: 10 minutos.
+	\n•\t Estaciones:
+	\n Estación Central/Taypi Uta:  Avenida Manco Cápac, Ex-estación de ferrocarriles.
+	\n Estación Cementerio/Ajayuni: Avenida Entre Ríos, detrás del Cementerio General.
+	\n Estación 16 de julio/Jach’a Qhathu: El Alto, zona 16 de julio, Avenida Panorámica Norte.</item>
+    </string-array>
+
+    <!-- **************** PUMA  ****************** -->
+    <string-array name="puma_titulo">
+        <item>Puma katari villa salome</item>
+        <item>Puma katari Incallojeta</item>
+        <item>Puma katari chasquipampa</item>
+    </string-array>
+    <string-array name="puma_lonlat">
+        <item>-16.503950, -68.128512</item>
+        <item>-16.504459, -68.128016</item>
+        <item>-16.500286, -68.132078</item>
+    </string-array>
+    <string-array name="puma_contenido">
+        <item>La autoridad edil explicó que la línea que cubrirá al macrodistrito San Antonio, tendrá su punto de ...</item>
+        <item>El Alcalde explicó que la ruta que cubrirá al macrodistrito de Cotahuma, tendrá su parada al final ...</item>
+        <item>Revilla informó que en el caso de la ruta que cubre al macrodistrito Sur, el PumaKatari arrancará ...</item>
+    </string-array>
+    <string-array name="puma_contenido_completo">
+        <item>La autoridad edil explicó que la línea que cubrirá al macrodistrito San Antonio, tendrá su punto de partida en Villa Salomé, cruzará la avenida del mismo nombre, llegará hasta la plaza Ergueta (el cual es el punto de confluencia de varias zonas del área), posteriormente bajará hasta ex Samapa.
+	Seguidamente, bajará por la calle Circunvalación, la 13 de Marzo, luego pasará por el mercado 10 de Enero, subirá la avenida Rafael Ballivián para ingresar a Miraflores hasta la avenida Busch, bajará hasta la calle Díaz Romero, ingresará por la avenida del Ejercito para entrar a la estación de la Argandoña (PUC).
+	\n•\t Tarifa: 1.80 bs.
+	\n•\t Tarifa preferencial: 1bs.</item>
+        <item>El Alcalde explicó que la ruta que cubrirá al macrodistrito de Cotahuma, tendrá su parada al final de la avenida Túpac Katari, posteriormente seguirá por Pasankeri, la Max Fernández, continuará por la Mario Mercado, cruzará las zonas Alto y Bajo LLojeta y llegará hasta la rotonda de la Francisco Bedregal donde realizará un giro.
+	Luego, tomará la Francisco Bedregal, seguirá por los puentes Trillizos, girará en Cuarto Centenario, retornará los puentes Trillizos para bajar por las avenidas Libertador, Del Poeta para llegar al PUC, y de ahí hasta la estación que está ubicada en la calle Wenceslao Argandoña.
+	\n•\t Tarifa: 1.80 bs.
+	\n•\t Tarifa preferencial: 1bs.</item>
+        <item>Revilla informó que en el caso de la ruta que cubre al macrodistrito Sur, el PumaKatari arrancará desde la calle 63 de Chasquipampa, circulará por la avenida Defensores del Chaco, ingresará por la calle 53, tomará la vía paralela a la principal, ingresará a la avenida principal desde la calle 37, se acercará hasta la laguna de Cota Cota, posteriormente ingresará por la parte alta de Los Pinos.
+
+Consecutivamente, el bus bajará por la avenida Aguirre Achá, llegará hasta la calle 21 de Calacoto, saldrá a la Costanera hasta la calle 15 y luego entrará a la calle Nardos en Calacoto donde recogerá  a los pasajeros de esa zona. Seguidamente volverá a salir a La Florida, subirá hasta Obrajes por la avenida Costanera, llegará a la calle 16 y tomará la avenida Ormachea, la calle 4 de Obrajes, las avenidas del Libertador y Del Poeta, para llegar la estación principal en el PUC.
+	\n•\t Tarifa: 2bs.
+	\n•\t Tarifa preferencial: 1bs.</item>
+    </string-array>
+
+    <!-- **************** PLAZAS  ****************** -->
+    <string-array name="plaza_titulo">
+        <item>Plaza San Pedro </item>
+        <item>Plaza Avaroa </item>
+        <item>Plaza Murillo </item>
+        <item>Plaza Humboldt </item>
+        <item>Plaza del estudiante </item>
+    </string-array>
+    <string-array name="plaza_lonlat">
+        <item>-16.502391, -68.135288</item>
+        <item>-16.510730, -68.126783</item>
+        <item>-16.495691, -68.133581</item>
+        <item>-16.542073, -68.091607</item>
+        <item>-16.504200, -68.131077</item>
+    </string-array>
+
+    <string-array name="plaza_contenido">
+        <item>Durante la época colonial, en esa zona, se estableció un barrio de indios ...</item>
+        <item>Dedicada al héroe boliviano de la Guerra del Pacífico en la que nuestro país...</item>
+        <item>Se encuentra ubicada en el lugar más céntrico de la ciudad...</item>
+        <item>Esta plaza se encuentra ubicada en el ingreso a los barrios de Calacoto...</item>
+        <item>En la Plaza del Estudiante en el año 1926 se colocó un monumento dedicado...</item>
+    </string-array>
+    <string-array name="plaza_contenido_completo">
+        <item>Durante la época colonial, en esa zona, se estableció un barrio de indios y en el templo se oficiaron misas para todas las personas, sin discriminación alguna.</item>
+        <item>Dedicada al héroe boliviano de la Guerra del Pacífico en la que nuestro país perdió su acceso al océano pacífico. La Plaza Abaroa de la ciudad de La Paz se encuentra ubicada en el barrio de Sopocachi, por su ubicación es centro de varias concentraciones populares y actos cívicos.</item>
+        <item>Se encuentra ubicada en el lugar más céntrico de la ciudad, está dedicada a don Pedro Domingo Murillo, patrióta y precursor la gesta libertaria del 16 de Julio de 1809 en La Paz.</item>
+        <item>Esta plaza se encuentra ubicada en el ingreso a los barrios de Calacoto y La Florida, zona del sur de la urbe. Se constituye en uno de los espacios públicos mas conocidos de la ciudad de La Paz.</item>
+        <item>En la Plaza del Estudiante en el año 1926 se colocó un monumento dedicado al Mariscal Antonio José de Sucre (1795 - 1830), obra del italiano Enrico Tadolini (1888-1967). Lo interesante es que este artista es bisnieto del famoso escultor Adamo Tadolini, autor de los monumentos a Simón Bolívar que se encuentran en las principales plazas de Lima y Caracas, capitales de Perú, Venezuela.</item>
+    </string-array>
+
+    <string name="title_activity_principal_fragment">principal_fragment</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_maps">Map</string>
+
+</resources>

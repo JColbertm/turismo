@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:background="#fffbfff9">
+
+        <LinearLayout
+            android:id="@+id/linearMaps"
+            android:orientation="vertical"
+            android:layout_width="fill_parent"
+            android:visibility="gone"
+            android:animateLayoutChanges="true"
+            android:layout_below="@+id/linearlayout_localizacion"
+            android:layout_height="wrap_content">
+
+        </LinearLayout>
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <LinearLayout
+                android:orientation="vertical"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:background="@drawable/fondomenu1">
+
+                <ImageView
+                    android:layout_width="370dp"
+                    android:layout_height="200dp"
+                    android:id="@+id/iv_imagen_listaruncircuito"
+                    android:src="@drawable/brosso1"
+                    android:scaleType="centerCrop"
+                    android:background="#fffaf0e6"
+                    android:layout_gravity="center_horizontal" />
+
+                <LinearLayout
+                    android:orientation="horizontal"
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent">
+
+                    <TextView
+                        android:layout_width="318dp"
+                        android:layout_height="wrap_content"
+                        android:textAppearance="?android:attr/textAppearanceLarge"
+                        android:text="Plaza 25 de Mayo"
+                        android:id="@+id/tv_titulo_listaruncircuito"
+                        android:layout_marginTop="5dp"
+                        android:layout_marginLeft="5dp"
+                        android:background="@drawable/textview_border"
+                        android:textColor="@android:color/white"
+                        android:visibility="visible"
+                        android:textSize="28dp"
+                        android:paddingTop="5dp"
+                        android:paddingBottom="5dp"
+                        android:paddingRight="10dp"
+                        android:paddingLeft="10dp" />
+
+                    <Button
+                        style="?android:attr/buttonStyleSmall"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="IR"
+                        android:id="@+id/ir" />
+
+                </LinearLayout>
+
+                <TextView
+                    android:layout_width="370dp"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    android:text="Es la plaza principal de la ciudad de San Juan y es donde se encuentra el kilómetro 0 de la provincia. Anteriormente la plaza principal estaba en Concepción, donde Juan Jufré fundó la ciudad en 1562, pero a cau- sa de una gran inundación y para proteger a los vecinos amenazados por las aguas de las crecidas veraniegas, en 1594 fue trasladada 15 cuadras al sur y establecida definitivamente en el lugar en el que se encuentra en la actualidad. El centro de la plaza está adornado por una añosa pero bien cuidada fuente y entre los espacios verdes forestados con palmeras, robles, cedros y plátanos; se destacan 2 importantes monumentos: uno a Fray Justo Santa María de Oro y el otro de Domingo Faustino Sarmiento rodeado de niños escolares."
+                    android:id="@+id/tv_contenido_listaruncircuito"
+                    android:layout_margin="5dp"
+                    android:textColor="#ff6f6f6f"
+                    android:background="#d7dadada"
+                    android:padding="15dp"
+                    android:layout_gravity="center_horizontal" />
+
+            </LinearLayout>
+        </ScrollView>
+
+</LinearLayout>
