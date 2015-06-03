@@ -24,7 +24,13 @@
         android:theme="@style/AppTheme"
 
         >
-
+ <activity
+            android:name=".perfil"
+            android:parentActivityName=".menuPrincipal" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".menuPrincipal" />
+        </activity>
 
       <activity android:name="com.facebook.FacebookActivity"
             android:configChanges=
